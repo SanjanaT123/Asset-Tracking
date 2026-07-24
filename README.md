@@ -103,7 +103,7 @@ This repository demonstrates the implementation of a BLE RSSI-based asset tracki
 
 ## Author
 
-**Sanjana Tupped**
+**Sanjana **
 
 GitHub: https://github.com/SanjanaT123
 
