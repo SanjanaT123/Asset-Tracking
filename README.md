@@ -33,7 +33,7 @@ The Asset Tracking System Using BLE RSSI is an IoT-based project developed using
 ## Project Output
 ### Asset Tracking Output
 
-![Asset Tracking Output](imagesoutput.png)
+<img src="images/output.png" width="700">
 
 
 ---
